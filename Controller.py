@@ -1,5 +1,5 @@
 import numpy as np
-import ParamHW13 as P
+import Parameters as P
 
 class Controller:
     def __init__(self):
